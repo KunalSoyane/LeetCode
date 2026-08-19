@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KunalSoyane/LeetCode/tree/master/0001-two-sum) |
+| [1386-cinema-seat-allocation](https://github.com/KunalSoyane/LeetCode/tree/master/1386-cinema-seat-allocation) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KunalSoyane/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KunalSoyane/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1386-cinema-seat-allocation](https://github.com/KunalSoyane/LeetCode/tree/master/1386-cinema-seat-allocation) |
 ## Math
 |  |
 | ------- |
@@ -31,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KunalSoyane/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/KunalSoyane/LeetCode/tree/master/1386-cinema-seat-allocation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/KunalSoyane/LeetCode/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
